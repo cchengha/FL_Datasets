@@ -4,4 +4,4 @@ This dataset presents the relationships between the average nominal speed and th
 
 The following scatter plot shows the distribution of the datasets for different printers. More detailed data are available in the .csv files. For the .csv files, the first column of the data shows the average nominal speed in different layers, the second column and third column respectively represent the RMS of the measured acceleration for x- and y-axes, while the printer labels and the speed settings are indicated in their file names. The Gcode files are also attached.   
 
-
+![Figure 1](https://user-images.githubusercontent.com/85634534/121940021-a7ebed80-cd1b-11eb-9b93-36f115e83231.jpg)
